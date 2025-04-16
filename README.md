@@ -34,7 +34,7 @@
     <a href="https://wakatime.com/@66c68aee-ae56-4140-9131-f0c2bc6fe968"><img src="https://wakatime.com/badge/user/66c68aee-ae56-4140-9131-f0c2bc6fe968.svg" alt="Total time coded since Apr 16 2025" /></a>
 </p>
 <p align="center">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=AaaaaaaaaronL&theme=transparent&hide_border=true&layout=compact&langs_count=22" alt="Streak Stats" title="Streak Stats"/>
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aaron_Lwi&theme=transparent&hide_border=true&layout=compact&langs_count=22" alt="Streak Stats" title="Streak Stats"/>
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaaaaaaaaronL&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Streak Stats" title="Streak Stats"/>
 </p>
 <p align="center">
