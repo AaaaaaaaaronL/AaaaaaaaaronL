@@ -30,7 +30,7 @@
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/AaaaaaaaaronL"><img src="https://img.shields.io/badge/GitHub-AaaaaaaaaronL-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://www.linkedin.com/in/chun-kiat-lwi-058308287/"><img src="https://img.shields.io/badge/Linked In-AaaaaaaaaronL-blue" alt="Linked In" title="Linked In" /></a>
-    <a href="https://www.facebook.com/chunkiatlwi"><img src="https://img.shields.io/badge/FB-我就是小康-pink?" alt="FB" title="FB" /></a>
+    <a href="https://www.facebook.com/chunkiatlwi"><img src="https://img.shields.io/badge/FB-Aaron-pink?" alt="FB" title="FB" /></a>
     <a href="https://wakatime.com/@Xiaokang2022"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
 </p>
 <p align="center">
