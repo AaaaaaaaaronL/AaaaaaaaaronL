@@ -29,8 +29,8 @@
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/AaaaaaaaaronL"><img src="https://img.shields.io/badge/GitHub-AaaaaaaaaronL-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/chun-kiat-lwi-058308287/"><img src="https://img.shields.io/badge/Linked In-AaaaaaaaaronL-blue" alt="Linked In" title="Linked In" /></a>
-    <a href="https://www.facebook.com/chunkiatlwi"><img src="https://img.shields.io/badge/FB-Aaron-pink?" alt="FB" title="FB" /></a>
+    <a href="https://www.linkedin.com/in/chun-kiat-lwi-058308287/"><img src="https://img.shields.io/badge/Linked In-Lwi Chun Kiat-blue" alt="Linked In" title="Linked In" /></a>
+    <a href="https://www.facebook.com/chunkiatlwi"><img src="https://img.shields.io/badge/FB-俊杰-blue?" alt="FB" title="FB" /></a>
     <a href="https://wakatime.com/@66c68aee-ae56-4140-9131-f0c2bc6fe968"><img src="https://wakatime.com/badge/user/66c68aee-ae56-4140-9131-f0c2bc6fe968.svg" alt="Total time coded since Apr 16 2025" /></a>
 </p>
 <p align="center">
