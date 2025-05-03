@@ -51,7 +51,7 @@
           </p>
           <p align="left">
               <h3>Database</h3>
-              <img src="mysql&titles=true" alt="Skill Icons" title="Skill Icons">
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true" alt="Skill Icons" title="Skill Icons">
           </p>
           <p align="left">
               <h3>Others</h3>
