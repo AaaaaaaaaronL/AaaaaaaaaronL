@@ -28,7 +28,38 @@
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=laravel,php,flutter,dart,java,html,css,js,github,postman,mysql,nodejs,opencv,selenium&titles=true" alt="Skill Icons" title="Skill Icons">
+    <table align="center" width="800">
+      <tr border="none">
+        <td align="left" width="50%">
+          <p align="left">
+              <h3>Website Development</h3>
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,tailwind,bootstrap,nodejs&titles=true" alt="Skill Icons" title="Skill Icons">
+          </p>
+          <p align="left">
+              <h3>Framework</h3>
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=react,laravel,flutter&titles=true" alt="Skill Icons" title="Skill Icons">
+          </p>
+          <p align="left">
+              <h3>Tools</h3>
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,postman,github&titles=true" alt="Skill Icons" title="Skill Icons">
+          </p>
+        </td>
+        <td align="left" width="50%">
+          <p align="left">
+              <h3>Backend</h3>
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=php,java,python,selenium,dart&titles=true" alt="Skill Icons" title="Skill Icons">
+          </p>
+          <p align="left">
+              <h3>Database</h3>
+              <img src="mysql&titles=true" alt="Skill Icons" title="Skill Icons">
+          </p>
+          <p align="left">
+              <h3>Others</h3>
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&titles=true" alt="Skill Icons" title="Skill Icons">
+          </p>
+        </td>
+      </tr>
+    </table>
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
