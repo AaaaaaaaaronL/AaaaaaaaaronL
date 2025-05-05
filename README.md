@@ -47,7 +47,7 @@
         <td align="left" width="50%">
           <p align="left">
               <h3>Backend</h3>
-              <img src="https://go-skill-icons.vercel.app/api/icons?i=php,java,python,selenium,dart&titles=true" alt="Skill Icons" title="Skill Icons">
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=php,java,python,dart&titles=true" alt="Skill Icons" title="Skill Icons">
           </p>
           <p align="left">
               <h3>Database</h3>
@@ -55,7 +55,7 @@
           </p>
           <p align="left">
               <h3>Others</h3>
-              <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&titles=true" alt="Skill Icons" title="Skill Icons">
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,selenium&titles=true" alt="Skill Icons" title="Skill Icons">
           </p>
         </td>
       </tr>
