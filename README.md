@@ -15,7 +15,7 @@
 </p>
 <p align="center">
     <img align="center" width="400" height="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aaron_Lwi&theme=transparent&hide_border=true&layout=compact&langs_count=22" alt="Streak Stats" title="Streak Stats"/>
-    <img align="center" width="400" height="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aaron_Lwi&theme=transparent&hide_border=true&layout=default&langs_count=22" alt="Streak Stats" title="Streak Stats"/>
+    <img align="center" width="400" height="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aaron_Lwi&theme=transparent&hide_border=true&layout=default&langs_count=10" alt="Streak Stats" title="Streak Stats"/>
 <!--     <img align="center" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaaaaaaaaronL&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Streak Stats" title="Streak Stats"/> -->
 </p>
 <p align="center">
